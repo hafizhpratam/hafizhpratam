@@ -10,7 +10,6 @@
 - **Major:** Sistem Informasi Otomotif Industri
 - **Currently Learning:** Networking, Data Mining, Web Programming, Microsoft Office
 - **Passionate About:** Networking, Data Science, Web Development, Office Productivity
-- **Ask Me About:** Network Administration, Data Analysis, PHP, Web Development, Microsoft Office
 
 ---
 
