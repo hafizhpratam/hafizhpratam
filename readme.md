@@ -26,7 +26,7 @@
    Sebuah sistem manajemen beasiswa berbasis web yang menyediakan fitur:  
    - 🔒 Sistem autentikasi berbasis peran (Admin & Pengguna)
    - 📄 Manajemen pendaftaran yang fleksibel
-   - 📈 Fitur analisis pada tampilan dasbor
+   - 📈 Fitur analisis pada tampilan dasboard
    - 🗄️ Integrasi dengan database MySQL
    - 📱 Tampilan yang responsif
 
