@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Hafizh Ayyasy Pratama 👋</h1>
+<h1 align="center">Hi Semua! Saya Hafizh Ayyasy Pratama 👋</h1>
 
 <p align="center">Selamat datang di ruang kerja digital saya! Saya seorang mahasiswa antusias yang saat ini menempuh studi di Politeknik STMI Jakarta dengan fokus pada Sistem Informasi Otomotif Industri 🎓. Saya berkomitmen dalam mengembangkan solusi inovatif melalui pemrograman web 🌐 serta pengolahan data dan jaringan komputer 📊💻.</p>
 
@@ -6,7 +6,6 @@
 
 ### 🎯 Current Focus
 
-🎯 Current Focus
 - **Education:** Politeknik STMI Jakarta
 - **Major:** Sistem Informasi Otomotif Industri
 - **Currently Learning:** Networking, Data Mining, Web Programming, Microsoft Office
