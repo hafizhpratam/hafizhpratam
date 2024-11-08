@@ -1,13 +1,11 @@
 <h1 align="center">Hi Semua! Saya Hafizh Ayyasy Pratama 👋</h1>
 
-<p align="center">Selamat datang di ruang kerja digital saya! Saya seorang mahasiswa antusias yang saat ini menempuh studi di Politeknik STMI Jakarta dengan fokus pada Sistem Informasi Otomotif Industri 🎓. aya tertarik dalam pengembangan pemrograman web 🌐 serta pengolahan data dan jaringan komputer 📊💻.</p>
+<p align="center">Selamat datang di Github Profile Saya, Saya adalah seorang mahasiswa antusias yang saat ini menempuh studi di Politeknik STMI Jakarta dengan fokus pada Sistem Informasi Otomotif Industri 🎓. Saya tertarik dalam pengembangan pemrograman web 🌐 serta pengolahan data dan jaringan komputer 📊💻.</p>
 
 ---
 
 ### 🎯 Current Focus
 
-- **Education:** Politeknik STMI Jakarta
-- **Major:** Sistem Informasi Otomotif Industri
 - **Currently Learning:** Networking, Data Mining, Web Programming, Microsoft Office
 - **Passionate About:** Networking, Data Science, Web Development, Office Productivity
 
@@ -26,11 +24,11 @@
 
 1. **Sistem Penerimaan Beasiswa**  
    Sebuah sistem manajemen beasiswa berbasis web yang menyediakan fitur:  
-   - 🔐 Autentikasi peran ganda (Admin & User)  
-   - 📝 Pemrosesan pendaftaran dinamis  
-   - 📊 Analitik pada dashboard  
-   - 💾 Integrasi database MySQL  
-   - 🎯 Desain responsif  
+   - 🔒 Sistem autentikasi berbasis peran (Admin & Pengguna)
+   - 📄 Manajemen pendaftaran yang fleksibel
+   - 📈 Fitur analisis pada tampilan dasbor
+   - 🗄️ Integrasi dengan database MySQL
+   - 📱 Tampilan yang responsif
 
 2. **Sistem Pencarian Bengkel Terdekat**  
    Solusi pencarian bengkel terdekat yang efisien, dengan:  
