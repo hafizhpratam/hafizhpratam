@@ -8,8 +8,6 @@
   Saya tertarik pada pengembangan pemrograman web 🌐 serta pengolahan data dan jaringan komputer 📊💻.
 </p>
 
----
-
 ## 🎯 Current Focus
 
 <ul>
@@ -18,8 +16,6 @@
   <li><strong>Web Programming</strong></li>
   <li><strong>Microsoft Office</strong></li>
 </ul>
-
----
 
 ## 💼 Skills
 
@@ -72,7 +68,7 @@ Solusi pencarian bengkel terdekat menggunakan Bahasa C dengan antarmuka sederhan
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=hafizhayyasypratama04&label=Profile%20Views&theme=dark" alt="Profile Views" />
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=Hafizhayyasypratama04&label=Profile%20Views" alt="Profile Views" />
   </a>
 </p>
 
