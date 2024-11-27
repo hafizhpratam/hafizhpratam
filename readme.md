@@ -1,6 +1,6 @@
+![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
 # Hi Semua! Saya Hafizh Ayyasy Pratama 👋
 
-![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
 Selamat datang di Github Profile Saya!  
 Saya adalah seorang mahasiswa yang saat ini menempuh studi di **Politeknik STMI Jakarta** dengan fokus pada **Sistem Informasi Otomotif Industri 🎓**.  
 Saya tertarik dalam pengembangan pemrograman web 🌐 serta pengolahan data dan jaringan komputer 📊💻.
@@ -55,5 +55,5 @@ Solusi pencarian bengkel terdekat menggunakan Bahasa C dengan antarmuka sederhan
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hafizhayyasypratama&theme=redical" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hafizhayyasypratama04&theme=redical" alt="Activity Graph" />
 </p>
