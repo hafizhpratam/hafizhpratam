@@ -68,7 +68,7 @@ Solusi pencarian bengkel terdekat menggunakan Bahasa C dengan antarmuka sederhan
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a>
-   <img src="https://visitor-badge.laobi.icu/badge?page_id=Hafizhayyasypratama04&label=Profile%20Views" alt="Profile Views" />
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=Hafizhpratam&label=Profile%20Views" alt="Profile Views" />
   </a>
 </p>
 
@@ -76,7 +76,7 @@ Solusi pencarian bengkel terdekat menggunakan Bahasa C dengan antarmuka sederhan
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafizhayyasypratama04&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizhayyasypratama04&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizhayyasypratama04&layout=compact&theme=tokyonight" alt="Top Languages" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=hafizhpratam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizhpratam&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizhpratam&layout=compact&theme=tokyonight" alt="Top Languages" />  
 </p>
