@@ -39,7 +39,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="60" />
+  <img src="https://skillicons.dev/icons?i=cisco" alt="Cisco" width="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="60" />
@@ -49,11 +49,14 @@
 
 ## 🚀 Featured Projects
 
-### 1. Sistem Penerimaan Beasiswa
+### 1. Sistem Manajemen Beasiswa
 Sistem manajemen beasiswa berbasis web dengan fitur autentikasi, manajemen pendaftaran, dan analisis dashboard.
 
 ### 2. Sistem Pencarian Bengkel Terdekat
 Solusi pencarian bengkel terdekat menggunakan Bahasa C dengan antarmuka sederhana dan fungsional.
+
+### 3. Sistem informasi Point Of Sales (SI-POS)
+Sistem manajemen untuk transaksi pada bengkel betawi racer
 
 
 ## 🌐 Terhubung dengan Saya
