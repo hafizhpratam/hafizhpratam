@@ -39,7 +39,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" />
-  <img src="https://skillicons.dev/icons?i=cisco" alt="Cisco" width="60" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" width="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="60" />
