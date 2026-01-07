@@ -154,22 +154,22 @@ Saya adalah mahasiswa yang bersemangat dalam dunia teknologi, khususnya di bidan
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hafizhpratam&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizhpratam&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafizhpratam&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4CAF50&icon_color=4CAF50&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=hafizhpratam&theme=react&hide_border=true&background=0D1117&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50" />
+</div>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizhpratam&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizhpratam&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4CAF50&text_color=FFFFFF&langs_count=10" />
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hafizhpratam&theme=radical&no-frame=true&no-bg=false&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hafizhpratam&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</div>
 
 ---
 
