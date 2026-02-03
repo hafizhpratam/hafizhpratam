@@ -154,31 +154,39 @@ Saya adalah mahasiswa yang bersemangat dalam dunia teknologi, khususnya di bidan
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hafizhpratam&show_icons=true&theme=radical&bg_color=0d1117&title_color=4CAF50&icon_color=4CAF50&text_color=ffffff&border_color=4CAF50&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Hafizhpratam&theme=radical&background=0d1117&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&border=4CAF50" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hafizhpratam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Hafizh's%20GitHub%20Stats" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hafizhpratam&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hafizhpratam&layout=compact&theme=radical&bg_color=0d1117&title_color=4CAF50&text_color=ffffff&border_color=4CAF50&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=Hafizhpratam&limit=5&theme=radical&bg_color=0d1117&title_color=4CAF50&text_color=ffffff&border_color=4CAF50" alt="Top Contributed Repo" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Hafizhpratam&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafizhpratam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
-## 📈 Activity Graph
+## 🏆 GitHub Trophies
 
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hafizhpratam&theme=react-dark&bg_color=0d1117&color=4CAF50&line=4CAF50&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hafizhpratam&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hafizhpratam&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🔥 GitHub Metrics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hafizhpratam&theme=tokyonight&hide_border=true&layout=compact" alt="Coding Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hafizhpratam&theme=tokyonight" alt="Productive Time" />
+</p>
 
 ---
 
@@ -196,7 +204,7 @@ Saya adalah mahasiswa yang bersemangat dalam dunia teknologi, khususnya di bidan
 ## 💬 Quote Favorit
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ---
@@ -207,6 +215,18 @@ Saya adalah mahasiswa yang bersemangat dalam dunia teknologi, khususnya di bidan
   <b>Saya selalu terbuka untuk kolaborasi, diskusi teknologi, atau sekadar ngobrol santai! 🤝</b><br/>
   <b>Jangan ragu untuk menghubungi saya melalui platform di atas! 😊</b>
 </p>
+
+---
+
+<div align="center">
+  
+### 📊 Profile Stats Summary
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hafizhpratam&theme=tokyonight)
+
+</div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
