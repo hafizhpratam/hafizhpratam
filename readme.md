@@ -152,79 +152,62 @@ Saya adalah mahasiswa yang bersemangat dalam dunia teknologi, khususnya di bidan
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hafizhpratam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Hafizh's%20GitHub%20Stats" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hafizhpratam&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+<div align="center">
+  
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hafizhpratam&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafizhpratam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+### 🔥 Commit Statistics
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hafizhpratam&theme=github_dark)
 
----
+### ⏰ Coding Time Distribution
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hafizhpratam&theme=github_dark&utcOffset=7)
 
-## 🏆 GitHub Trophies
+### 💻 Most Used Languages
+![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hafizhpratam&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hafizhpratam&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+### 📊 Commit Stats
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hafizhpratam&theme=github_dark)
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hafizhpratam&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🔥 GitHub Metrics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hafizhpratam&theme=tokyonight&hide_border=true&layout=compact" alt="Coding Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hafizhpratam&theme=tokyonight" alt="Productive Time" />
-</p>
+</div>
 
 ---
 
 ## 🎯 Goals 2025
 
-- 🚀 Menguasai framework JavaScript modern (React/Vue)
-- 📚 Memperdalam knowledge di Machine Learning & AI
-- 🏗️ Membangun 10+ project portfolio
-- 🤝 Berkontribusi ke open source projects
-- 📝 Membuat technical blog/dokumentasi
-- 🎓 Menyelesaikan studi dengan prestasi terbaik
-
----
-
-## 💬 Quote Favorit
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🚀 Technical Goals</h4>
+      <ul>
+        <li>✅ Menguasai React/Vue.js</li>
+        <li>✅ Memperdalam Machine Learning</li>
+        <li>✅ Belajar Cloud Computing (AWS/GCP)</li>
+        <li>✅ Menguasai Docker & Kubernetes</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>🏆 Achievement Goals</h4>
+      <ul>
+        <li>✅ Membangun 10+ project portfolio</li>
+        <li>✅ Berkontribusi ke open source</li>
+        <li>✅ Menulis technical blog</li>
+        <li>✅ Menyelesaikan studi dengan IPK terbaik</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📫 Mari Terhubung!
 
 <p align="center">
-  <b>Saya selalu terbuka untuk kolaborasi, diskusi teknologi, atau sekadar ngobrol santai! 🤝</b><br/>
-  <b>Jangan ragu untuk menghubungi saya melalui platform di atas! 😊</b>
+  <b>🤝 Saya selalu terbuka untuk kolaborasi, diskusi teknologi, atau sekadar ngobrol santai!</b><br/>
+  <b>💬 Jangan ragu untuk menghubungi saya melalui platform di atas!</b>
 </p>
-
----
-
-<div align="center">
-  
-### 📊 Profile Stats Summary
-
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hafizhpratam&theme=tokyonight)
-
-</div>
 
 ---
 
@@ -233,5 +216,5 @@ Saya adalah mahasiswa yang bersemangat dalam dunia teknologi, khususnya di bidan
 </div>
 
 <p align="center">
-  <i>⭐ Dari Hafizh dengan ❤️ untuk komunitas tech Indonesia! ⭐</i>
+  <i>⭐ Dibuat dengan ❤️ oleh Hafizh Ayyasy Pratama untuk komunitas tech Indonesia! ⭐</i>
 </p>
