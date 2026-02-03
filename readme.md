@@ -16,7 +16,7 @@
   <a href="https://www.youtube.com/@hafizhayyasypratama8530">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hafizhpratam&label=Profile%20Views&color=4CAF50" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Hafizhpratam&label=Profile%20Views&color=4CAF50&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -155,12 +155,13 @@ Saya adalah mahasiswa yang bersemangat dalam dunia teknologi, khususnya di bidan
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafizhpratam&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4CAF50&icon_color=4CAF50&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=hafizhpratam&theme=react&hide_border=true&background=0D1117&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hafizhpratam&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4CAF50&icon_color=4CAF50&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hafizhpratam&theme=react&hide_border=true&background=0D1117&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizhpratam&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4CAF50&text_color=FFFFFF&langs_count=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafizhpratam&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4CAF50&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hafizhpratam&theme=react-dark&hide_border=true&bg_color=0D1117&color=4CAF50&line=4CAF50&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ---
@@ -168,7 +169,15 @@ Saya adalah mahasiswa yang bersemangat dalam dunia teknologi, khususnya di bidan
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hafizhpratam&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hafizhpratam&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafizhpratam&bg_color=0D1117&color=4CAF50&line=4CAF50&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -187,7 +196,7 @@ Saya adalah mahasiswa yang bersemangat dalam dunia teknologi, khususnya di bidan
 ## 💬 Quote Favorit
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Quote" />
 </p>
 
 ---
