@@ -155,29 +155,29 @@ Saya adalah mahasiswa yang bersemangat dalam dunia teknologi, khususnya di bidan
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hafizhpratam&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4CAF50&icon_color=4CAF50&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hafizhpratam&theme=react&hide_border=true&background=0D1117&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hafizhpratam&show_icons=true&theme=radical&bg_color=0d1117&title_color=4CAF50&icon_color=4CAF50&text_color=ffffff&border_color=4CAF50&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Hafizhpratam&theme=radical&background=0d1117&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&border=4CAF50" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafizhpratam&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4CAF50&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hafizhpratam&theme=react-dark&hide_border=true&bg_color=0D1117&color=4CAF50&line=4CAF50&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hafizhpratam&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hafizhpratam&layout=compact&theme=radical&bg_color=0d1117&title_color=4CAF50&text_color=ffffff&border_color=4CAF50&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=Hafizhpratam&limit=5&theme=radical&bg_color=0d1117&title_color=4CAF50&text_color=ffffff&border_color=4CAF50" alt="Top Contributed Repo" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafizhpratam&bg_color=0D1117&color=4CAF50&line=4CAF50&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Hafizhpratam&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hafizhpratam&theme=react-dark&bg_color=0d1117&color=4CAF50&line=4CAF50&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" />
 </div>
 
 ---
